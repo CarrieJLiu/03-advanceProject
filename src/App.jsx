@@ -1,11 +1,9 @@
-import List from "./tutorial/05-leverage-javascript/start/List";
-
+import Starter from './tutorial/06-forms/starter/02-user-challenge.jsx';
 
 function App() {
   return (
     <div className='container'>
-      <h2>Advanced React</h2>
-      <List />
+      <Starter />
     </div>
   );
 }
