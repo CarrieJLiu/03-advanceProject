@@ -14,3 +14,4 @@ const Person = ({ name, nickName = 'shakeAndBake', images }) => {
   );
 };
 export default Person;
+ 
