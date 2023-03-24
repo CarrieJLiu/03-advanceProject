@@ -1,4 +1,5 @@
-import Starter from './tutorial/06-forms/starter/03-multiple-inputs.jsx';
+import Starter from './tutorial/06-forms/starter/05-form-data.jsx';
+
 function App() {
   return (
     <div className='container'>
